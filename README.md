@@ -24,6 +24,3 @@ Here is the link to download zip 👉
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 
 
-## Credits
-
-#### Credits to Saad Pasta <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a># developerFolio
